@@ -1,0 +1,4 @@
+# teste.js
+
+
+## COMPARA-NUMEROS:
